@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package>
+  <name>fkie_realsense_description</name>
+  <version>0.1.0</version>
+  <description>Realsense description</description>
+
+  <author email="matthias.nieuwenhuisen@fkie.fraunhofer.de">Matthias Nieuwenhuisen</author>
+  <maintainer email="matthias.nieuwenhuisen@fkie.fraunhofer.de">Matthias Nieuwenhuisen</maintainer>
+
+  <license>GPLv2</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+  <run_depend>urdf</run_depend>
+
+</package>
