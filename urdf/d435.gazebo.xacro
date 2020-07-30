@@ -53,7 +53,7 @@
       <kd>1</kd>
       <!--<max_vel>0.01</max_vel>
       <min_depth>0</min_depth>-->
-      <sensor name="${name}ired1" type="camera">
+      <sensor name="${name}infra1" type="camera">
           <!--<pose frame="">0 -0.06 0.004 0 0 0</pose>-->
           <camera name="${name}">
           <horizontal_fov>1.047</horizontal_fov>
@@ -91,7 +91,7 @@
       <kd>1</kd>
       <!--<max_vel>0.01</max_vel>
       <min_depth>0</min_depth>-->
-      <sensor name="${name}ired2" type="camera">
+      <sensor name="${name}infra2" type="camera">
           <!--<pose frame="">0 0.01 0.004 0 0 0</pose>-->
           <camera name="${name}">
           <horizontal_fov>1.047</horizontal_fov>
