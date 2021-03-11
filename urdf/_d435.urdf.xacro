@@ -7,7 +7,7 @@ Copyright(c) 2017 Intel Corporation. All Rights Reserved
 This is the URDF model for the Intel RealSense 430 camera, in it's
 aluminum peripherial evaluation case.
 -->
-<robot name="sensor_d435" xmlns:xacro="http://ros.org/wiki/xacro">
+<robot name="sensor_d435" xmlns:xacro="http://www.ros.org/wiki/xacro">
   <xacro:include filename="$(find fkie_realsense_description)/urdf/d435.gazebo.xacro" />
   <material name="aluminum">
     <color rgba="0.5 0.5 0.5 1"/>
