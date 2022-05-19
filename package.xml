@@ -4,10 +4,13 @@
   <version>0.1.0</version>
   <description>Realsense description</description>
 
-  <author email="matthias.nieuwenhuisen@fkie.fraunhofer.de">Matthias Nieuwenhuisen</author>
   <maintainer email="matthias.nieuwenhuisen@fkie.fraunhofer.de">Matthias Nieuwenhuisen</maintainer>
 
-  <license>GPLv2</license>
+  <license>Apache 2.0</license>
+
+  <author email="matthias.nieuwenhuisen@fkie.fraunhofer.de">Matthias Nieuwenhuisen</author>
+  <author email="sergey.dorodnicov@intel.com">Sergey Dorodnicov</author>
+  <author email="doron.hirshberg@intel.com">Doron Hirshberg</author>
 
   <buildtool_depend>catkin</buildtool_depend>
   <run_depend>urdf</run_depend>
